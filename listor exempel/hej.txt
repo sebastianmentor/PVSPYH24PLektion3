@@ -1,0 +1,1 @@
+print('Hejsan från hej.txt!')
